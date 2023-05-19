@@ -11,8 +11,7 @@
 
 #### Мои проекты
 Ниже представлен список проектов, которые я выполнил в рамках обучения на курсе Яндекс Практикума, а также pet-проекты, над которыми я время от времени работаю:
-- [Movies exprorer](https://#)
-- [Mesto (React)](https://#)
+- [Mesto (React)]([https://#](https://github.com/Augenb1ick/react-mesto-auth))
 - [Mesto](https://github.com/Augenb1ick/Mesto)
 - [Russian travel](https://github.com/Augenb1ick/Russian-travel)
 - [How to learn](https://github.com/Augenb1ick/How-to-learn)
