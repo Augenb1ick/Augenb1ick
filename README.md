@@ -25,4 +25,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
 [![Gmail](https://img.shields.io/badge/-na.savoskin@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:na.savoskin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/nikita-savoskin)
 
-(https://www.codewars.com/users/augenb1ick/badges/large)
+
