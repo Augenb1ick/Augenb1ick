@@ -6,7 +6,7 @@
 - 🏫 Хочу освоить новые фреймворки
 - ✍🏻 Хочу писать чистый читабельный код
 
-#### 🛠️ Навыки 
+🛠️ Навыки 
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 🛠️ В планах 
@@ -24,3 +24,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/augenblick)
 [![Gmail](https://img.shields.io/badge/-na.savoskin@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:na.savoskin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141130?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/nikita-savoskin)
+
+(https://www.codewars.com/users/augenb1ick/badges/large)
