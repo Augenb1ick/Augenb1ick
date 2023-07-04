@@ -16,6 +16,8 @@
 
 #### Мои проекты
 Ниже представлен список проектов, которые я выполнил в рамках обучения на курсе Яндекс Практикума, а также pet-проекты, над которыми я время от времени работаю:
+- [E-Commerce](https://github.com/Augenb1ick/ts-e-commerce)
+- [GIF-Search](https://github.com/Augenb1ick/gif-search)
 - [Mesto (React)](https://github.com/Augenb1ick/react-mesto-auth)
 - [Emoji-critic](https://github.com/Augenb1ick/emoji-critic)
 - [Mesto](https://github.com/Augenb1ick/Mesto)
