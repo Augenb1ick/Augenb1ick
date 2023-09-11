@@ -12,8 +12,9 @@
 
 #### Мои проекты
 Ниже представлен список проектов, которые я выполнил в рамках обучения на курсе Яндекс Практикума, а также pet-проекты, над которыми я время от времени работаю:
+- [Movies explorer](https://github.com/Augenb1ick/movies-explorer)
 - [PAWsistant](https://github.com/Augenb1ick/Chatty-AI)
-- [Mesto (front + back)](https://github.com/Augenb1ick/react-mesto-api-full-gha)
+- [Mesto](https://github.com/Augenb1ick/react-mesto-api-full-gha)
 - [E-Commerce](https://github.com/Augenb1ick/ts-e-commerce)
 - [GIF-Search](https://github.com/Augenb1ick/gif-search)
 - [Emoji-critic](https://github.com/Augenb1ick/emoji-critic)
