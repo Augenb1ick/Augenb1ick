@@ -4,7 +4,7 @@
 
 ### Hi, my name is Nikita <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1500&color=717171E4&width=435&lines=%D0%AF+Frontend-developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1500&color=717171E4&width=435&lines=I'm+Frontend-developer)](https://git.io/typing-svg)
 
 #### About me:
 - 🎯 I strive to find a job in a friendly team.
