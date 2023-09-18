@@ -1,6 +1,6 @@
 ### Привет, меня зовут Никита <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1500&color=717171E4&width=435&lines=%D0%AF+Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1500&color=717171E4&width=435&lines=%D0%AF+Frontend-developer)](https://git.io/typing-svg)
 
 #### О себе:
 - 🎯 Стремлюсь найти работу в дружном коллективе
