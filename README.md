@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&pause=1500&color=717171E4&width=435&lines=%D0%AF+Frontend-developer)](https://git.io/typing-svg)
 
-#### О себе:
+#### About me:
 - 🎯 I strive to find a job in a friendly team.
 - 🥇 I have secured the first position in the frontend nomination at the Yandex.Praktikum Hackathon.
 - 👥 I'm a team player.
