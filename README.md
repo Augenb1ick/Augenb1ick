@@ -8,7 +8,6 @@
 
 #### About me:
 - 🎯 I strive to find a job in a friendly team.
-- 🥇 I have secured the first position in the frontend nomination at the Yandex.Praktikum Hackathon.
 - 👥 I'm a team player.
 - 💯 I want to create cool services for convenient user interaction.
 - 🚀 I quickly master new technologies and frameworks.
